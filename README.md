@@ -1,6 +1,4 @@
-# java-projects-leap-year
 public class Main {
-
   public static void main(String[] args) {
     int year = 1996;
     boolean leap = false;
